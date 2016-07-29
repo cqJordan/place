@@ -1,2 +1,3 @@
 hello world git 
-insert new line 
+insert new line
+add 3 line
